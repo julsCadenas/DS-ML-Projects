@@ -1,4 +1,4 @@
-# 🏠 📧 Spam Email Classifier
+# 📧 Spam Email Classifier
 
 **Best model for spam detection → Bernoulli Naive Bayes `bernNB`**
 - Highest accuracy (98.65%) and perfect precision (100%).
