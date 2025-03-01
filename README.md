@@ -2,8 +2,8 @@
 This repository contains my hands-on projects as part of my Machine Learning Project-Based Learning Plan. Each project follows a structured learning approach, covering various ML concepts and techniques.
 
 ## 📖 Table of Contents  
-1. [House Price Prediction (Regression)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/HousePricePrediction)  
-2. [Spam Email Classifier](https://github.com/julsCadenas/DS-ML-Projects/tree/main/SpamEmailClassifier)  
+1. [🏡 House Price Prediction (Regression)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/HousePricePrediction)  
+2. [📧 Spam Email Classifier](https://github.com/julsCadenas/DS-ML-Projects/tree/main/SpamEmailClassifier)  
 
 ---
 
