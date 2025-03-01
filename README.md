@@ -40,6 +40,6 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 - **Summary:**  
   - Perform Exploratory Data Analysis on the dataset
 - **Status:** ✅ Completed 
-- **Code & Notebook:** [Netflix Movies Dataset](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)  
+- **Code & Notebook:** [Netflix Data EDA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)  
 
 ---
