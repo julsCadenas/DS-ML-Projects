@@ -4,6 +4,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 ## 📖 Table of Contents  
 1. [🏡 House Price Prediction (Regression)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/HousePricePrediction)  
 2. [📧 Spam Email Classifier](https://github.com/julsCadenas/DS-ML-Projects/tree/main/SpamEmailClassifier)  
+3. [📺 Investigating Netflix Movies (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)
 
 ---
 
@@ -29,5 +30,16 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
   - Evaluated performance using **Accuracy, Precision, Recall, and F1-score**.  
 - **Status:** ✅ Completed  
 - **Code & Notebook:** [Spam Email Classifier](https://github.com/julsCadenas/DS-ML-Projects/tree/main/SpamEmailClassifier)  
+
+---
+
+### **📺 Investigating Netflix Movies (DataCamp)**
+- **Dataset:** [Investigating Netflix Movies](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python)  
+- **Key Concepts:** Exploratory Data Analysis  
+- **Tools Used:** Pandas, Matplotlib  
+- **Summary:**  
+  - Perform Exploratory Data Analysis on the dataset
+- **Status:** ✅ Completed 
+- **Code & Notebook:** [Netflix Movies Dataset](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)  
 
 ---
