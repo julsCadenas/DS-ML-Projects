@@ -44,3 +44,21 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 - **Code & Notebook:** [Netflix Data EDA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)  
 
 ---
+
+### **🙍‍♂️ Customer Churn Prediction**
+- **Dataset:** 
+1. [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)  
+1. [Telco Churn Dataset](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets)  
+1. [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)  
+- **Key Concepts:** Classification, Model Evaluation, EDA  
+- **Tools Used:** XGBoost, Scikit-Learn, SHAP, Pandas, Matplotlib, Seaborn  
+- **Summary:**  
+  - Trained XGBoost model for churn prediction.
+  - Evaluated using Accuracy, Precision, Recall, F1-score, and AUC-ROC.
+  - Used SHAP analysis to interpret feature importance (e.g., payment delays, support calls).
+  - Achieved 91% recall with an AUC-ROC of 0.9006.
+- **Status:** 🟢 In Progress
+- **Code & Notebook:** [Netflix Data EDA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)  
+
+---
+
