@@ -58,7 +58,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
   - Used SHAP analysis to interpret feature importance (e.g., payment delays, support calls).
   - Achieved 91% recall with an AUC-ROC of 0.9006.
 - **Status:** 🟢 In Progress
-- **Code & Notebook:** [Netflix Data EDA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)  
+- **Code & Notebook:** [Customer Churn Pred](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)  
 
 ---
 
