@@ -46,10 +46,10 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 ---
 
 ### **🙍‍♂️ Customer Churn Prediction**
-- **Dataset:** 
-1. [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)  
-1. [Telco Churn Dataset](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets)  
-1. [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)  
+- **Datasets:**
+  - [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)  
+  - [Telco Churn Dataset](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets)  
+  - [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)  
 - **Key Concepts:** Classification, Model Evaluation, EDA  
 - **Tools Used:** XGBoost, Scikit-Learn, SHAP, Pandas, Matplotlib, Seaborn  
 - **Summary:**  
