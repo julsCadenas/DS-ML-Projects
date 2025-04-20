@@ -71,3 +71,5 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
   - Perform EDA on the dataset
 - **Status:** ✅ Completed
 - **Code & Notebook:** [Crime in LA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
+
+---
