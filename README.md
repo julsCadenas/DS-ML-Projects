@@ -62,3 +62,11 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 
 ---
 
+### **👮 Analyzing Crime in Los Angeles**
+- **Dataset:** [Analyzing Crime in LA](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python)
+- **Key Concepts:** Exploratory Data Analysis
+- **Tools used:** Pandas, Matplotlib, Seaborn
+- **Summary:**
+  - Perform EDA on the dataset
+- **Status:** ✅ Completed
+- **Code & Notebook:** [Crime in LA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
