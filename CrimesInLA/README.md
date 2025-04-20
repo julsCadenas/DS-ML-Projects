@@ -1,4 +1,4 @@
-# Investigation Netflix Movies
+# Investigating Crime in Los Angeles
 - A short activity from the *[Python Data Fundamentals Course](https://app.datacamp.com/learn/skill-tracks/python-data-fundamentals)* from DataCamp.
 
 ### Activity Instructions:
