@@ -6,6 +6,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 2. [📧 Spam Email Classifier](https://github.com/julsCadenas/DS-ML-Projects/tree/main/SpamEmailClassifier)  
 3. [📺 Investigating Netflix Movies (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)
 4. [🙍‍♂️ Customer Churn Prediction](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)
+5. [👮 Investigating Crime in Los Angeles (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
 
 ---
 
