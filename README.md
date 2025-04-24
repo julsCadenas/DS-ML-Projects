@@ -7,6 +7,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 3. [📺 Investigating Netflix Movies (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/InvestigateNetflixMovies)
 4. [🙍‍♂️ Customer Churn Prediction](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)
 5. [👮 Investigating Crime in Los Angeles (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
+6. [🌾 Predictive Modeling for Agriculture (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/PredictiveModelAgriculture)
 
 ---
 
@@ -63,7 +64,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 
 ---
 
-### **👮 Analyzing Crime in Los Angeles**
+### **👮 Analyzing Crime in Los Angeles (DataCamp)**
 - **Dataset:** [Analyzing Crime in LA](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python)
 - **Key Concepts:** Exploratory Data Analysis
 - **Tools used:** Pandas, Matplotlib, Seaborn
@@ -73,3 +74,15 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 - **Code & Notebook:** [Crime in LA](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
 
 ---
+
+### **🌾 Predictive Modeling for Agriculture (DataCamp)**
+- **Dataset:** [Predictive Model Agriculture](https://app.datacamp.com/learn/projects/1772)
+- **Key Concepts:** Exploratory Data Analysis, Logistic Regression, Model Evaluation
+- **Tools used:** Pandas, Scikit-Learn
+- **Summary:**
+  - Perform EDA on the dataset
+  - Use Logistic Regression on each feature.
+  - Find the most performant feature.
+  - Evaluate the model using F1 score.
+- **Status:** ✅ Completed
+- **Code & Notebook:** [Agriculture Model](https://github.com/julsCadenas/DS-ML-Projects/tree/main/PredictiveModelAgriculture)
