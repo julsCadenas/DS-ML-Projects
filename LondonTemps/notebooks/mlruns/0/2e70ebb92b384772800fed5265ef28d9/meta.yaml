@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Juls/Desktop/dsml-projects/LondonTemps/notebooks/mlruns/0/2e70ebb92b384772800fed5265ef28d9/artifacts
+end_time: 1746244606152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e70ebb92b384772800fed5265ef28d9
+run_name: run_1
+run_uuid: 2e70ebb92b384772800fed5265ef28d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746244589218
+status: 3
+tags: []
+user_id: Juls
