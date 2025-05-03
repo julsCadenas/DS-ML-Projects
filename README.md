@@ -8,6 +8,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 4. [🙍‍♂️ Customer Churn Prediction](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)
 5. [👮 Investigating Crime in Los Angeles (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
 6. [🌾 Predictive Modeling for Agriculture (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/PredictiveModelAgriculture)
+7. [🌡️ Predicting Temperature in London (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/LondonTemps)
 
 ---
 
@@ -86,3 +87,21 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
   - Evaluate the model using F1 score.
 - **Status:** ✅ Completed
 - **Code & Notebook:** [Agriculture Model](https://github.com/julsCadenas/DS-ML-Projects/tree/main/PredictiveModelAgriculture)
+
+---
+
+### **🌡️ Predicting Temperature in London (DataCamp)**
+- **Dataset:** [Predicting Temperature in London](https://app.datacamp.com/learn/projects/predicting_temperature_in_london/guided/Python)
+- **Key Concepts:** Exploratory Data Analysis, Linear Regression, Decision Trees, Random Forest, Model Evaluation, MLflow
+- **Tools used:** Pandas, Numpy, Scikit-Learn, MLflow
+- **Summary:**
+  - Load and clean historical weather data from London.
+  - Perform EDA to understand seasonal trends and feature correlations.
+  - Select features relevant for predicting mean temperature.
+  - Preprocess the data using imputation and scaling.
+  - Train and evaluate Linear Regression, Decision Tree, and Random Forest models.
+  - Log models, parameters, and performance metrics using MLflow.
+- **Status:** ✅ Completed
+- **Code & Notebook:** [London Temps](https://github.com/julsCadenas/DS-ML-Projects/tree/main/LondonTemps)
+
+---
