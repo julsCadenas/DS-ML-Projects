@@ -60,7 +60,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
   - Evaluated using Accuracy, Precision, Recall, F1-score, and AUC-ROC.
   - Used SHAP analysis to interpret feature importance (e.g., payment delays, support calls).
   - Achieved 91% recall with an AUC-ROC of 0.9006.
-- **Status:** 🟢 In Progress
+- **Status:** ✅ Completed
 - **Code & Notebook:** [Customer Churn Pred](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction)  
 
 ---
