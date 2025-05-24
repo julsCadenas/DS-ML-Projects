@@ -21,3 +21,22 @@ This balanced performance makes the model suitable for deployment in a real-worl
 ---
 
 ## 2. **Telco Customer Churn**
+**Notebook:** [Click here](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CustomerChurnPrediction/notebooks/TelcoChurn)
+
+### **Churn Model Performance Summary**
+**Best Model:** Random Forest (after hyperparameter tuning)
+**Accuracy:** 93%
+**Churn detection rate (recall):** 85%
+**Precision for churn predictions:** 89%
+**F1-score for churn:** 0.87
+
+### **Conclusion**
+After hyperparameter tuning and cross-validation, the Random Forest model showed excellent performance with a 93% accuracy and balanced precision-recall for churn detection. It successfully identifies 85% of churners while maintaining a precision of 89%, ensuring few false positives. The F1-score of 0.87 reflects strong overall performance in classifying churners.
+
+The tuning process, which involved RandomizedSearchCV and cross-validation, led to slight but meaningful improvements over the base model. XGBoost also performed well, matching the overall accuracy and offering slightly better performance on the majority class, but Random Forest showed better precision-recall trade-offs on the minority churn class.
+
+Feature engineering (e.g., adding Average Monthly Charge) and careful threshold analysis contributed to the model’s strong predictive power. These insights, alongside feature importance (to be visualized with SHAP), will guide targeted retention strategies and business decisions.
+
+This model is now robust and reliable enough for deployment in customer service workflows, where early churn detection is critical for proactive retention efforts.
+
+---
