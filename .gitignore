@@ -1,1 +1,4 @@
 .venv
+
+# large file so we don't want to track it
+TwtSentimentAnalysis/data/ 
