@@ -1,4 +1,4 @@
-# ✉️ SENTIMENT ANALYSIS ON TWEETS
+# 🐤 SENTIMENT ANALYSIS ON TWEETS
 
 - **Accuracy:** 0.8112  
 - **Macro Avg:** 0.81 (treats all classes equally)  

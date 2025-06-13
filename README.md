@@ -9,7 +9,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 5. [👮 Investigating Crime in Los Angeles (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/CrimesInLA)
 6. [🌾 Predictive Modeling for Agriculture (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/PredictiveModelAgriculture)
 7. [🌡️ Predicting Temperature in London (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/LondonTemps)
-
+8. [🐤 Sentiment Analysis on Tweets](https://github.com/julsCadenas/DS-ML-Projects/tree/main/TwtSentimentAnalysis)
 ---
 
 ### **🏡 House Price Prediction (Regression)**  
@@ -105,3 +105,21 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 - **Code & Notebook:** [London Temps](https://github.com/julsCadenas/DS-ML-Projects/tree/main/LondonTemps)
 
 ---
+
+### **🐤 Sentiment Analysis on Tweets**
+- **Dataset:** [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140/code)
+- **Key Concepts:** Natural Language Processing (NLP), Text Processing, Binary Classification, Model Evaluation, Long Short-Term Memory (LSTM) 
+- **Tools used:**  Pandas, Numpy, Scikit-Learn, NLTK, Matplotlib, Seaborn, Tensorflow, Keras
+- **Summary:**
+  - Loaded and cleaned 1.6 million tweets labeled as positive or negative.
+  - Applied text preprocessing: lowercasing, punctuation and stopword removal, tokenization.
+  - Converted text to sequences using Keras `Tokenizer`, and padded them to equal length.
+  - Built a neural network using TensorFlow/Keras with embedding and dense layers.
+  - Trained the model and evaluated it on a 320,000-sample test set.
+  - Achieved the following evaluation metrics:
+    - **Accuracy:** 81.12%
+    - **Precision:** 81.26%
+    - **Recall:** 80.96%
+    - **F1-Score:** 81.11%
+- **Status:** ✅ Completed
+- **Code & Notebook:** [Tweet Sentiment Analysis](https://github.com/julsCadenas/DS-ML-Projects/tree/main/TwtSentimentAnalysis)
