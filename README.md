@@ -10,6 +10,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 6. [🌾 Predictive Modeling for Agriculture (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/PredictiveModelAgriculture)
 7. [🌡️ Predicting Temperature in London (DataCamp)](https://github.com/julsCadenas/DS-ML-Projects/tree/main/LondonTemps)
 8. [🐤 Sentiment Analysis on Tweets](https://github.com/julsCadenas/DS-ML-Projects/tree/main/TwtSentimentAnalysis)
+9. [1️⃣ MNIST Handwritten Digit Classifier](https://github.com/julsCadenas/DS-ML-Projects/tree/main/TFMnist)
 ---
 
 ### **🏡 House Price Prediction (Regression)**  
@@ -123,3 +124,16 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
     - **F1-Score:** 81.11%
 - **Status:** ✅ Completed
 - **Code & Notebook:** [Tweet Sentiment Analysis](https://github.com/julsCadenas/DS-ML-Projects/tree/main/TwtSentimentAnalysis)
+
+---
+
+### **1️⃣ MNIST Handwritten Digit Classifier**
+- **Dataset:** MNIST (from `tf.keras.datasets`)
+- **Key concepts:** Neural networks, image classification, data normalization, softmax & reLU activation, model evaluation
+- **Tools used:** TensorFlow, Keras, matplotlib, numpy
+- **Summary:**
+  - Built a fully connected neural network (FCNN) to classify 28x28 grayscale images of handwritten digits.
+  - Preprocessed the dataset by normalizing pixel values; trained over 5 epochs and visualized predictions.
+  - Evaluated the model using accuracy and loss metrics on 10,000 test images.
+- **Status:** ✅ Completed
+- **Code & Notebook:** [TFMnist](https://github.com/julsCadenas/DS-ML-Projects/tree/main/TFMnist)
