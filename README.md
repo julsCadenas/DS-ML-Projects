@@ -127,7 +127,7 @@ This repository contains my hands-on projects as part of my Machine Learning Pro
 
 ---
 
-### **1️⃣ MNIST Handwritten Digit Classifier**
+### **1️⃣ MNIST Handwritten Digit Recognition**
 - **Dataset:** MNIST (from `tf.keras.datasets`)
 - **Key concepts:** Neural networks, image classification, data normalization, softmax & reLU activation, model evaluation
 - **Tools used:** TensorFlow, Keras, matplotlib, numpy
